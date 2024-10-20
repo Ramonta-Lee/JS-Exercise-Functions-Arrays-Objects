@@ -26,7 +26,7 @@
   "dependencies": {
     "chai": "^4.2.0",
     "esm": "^3.2.25",
-    "mocha": "^6.2.2",
+    "mocha": "^10.7.3",
     "mocha-junit-reporter": "^1.23.1",
     "mocha-multi-reporters": "^1.1.7",
     "test": "^0.6.0"
@@ -34,6 +34,6 @@
   "devDependencies": {
     "eslint": "^6.5.1",
     "growl": "^1.10.5",
-    "lite-server": "^2.5.4"
+    "lite-server": "^2.6.1"
   }
 }
